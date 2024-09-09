@@ -1,16 +1,25 @@
-# World of Yellowhammers 
+# 👋Hi! Welcome to the YH World:)
 
-Welcome to the World of Yellowhammers! 🕊 <br>
+Welcome! I'm Min, and this is my contribution page to my dear little study bird, Yellowhammers:)🕊 <br>
+If you are curious about these little yellow creatures..You've come to the right place😉 <br>
+Here you will find some common information, hopefully-fun facts, a.k.a collection of all random YH stuff!📚  <br>
+(Un)Fortunately, due to author bias, it will be mostly focused on their endearing vocal cords.🎶  <br>
+So if you're ready..Feel free to dive in and explore!💫 
+
 If you have come from the poster... Here are some things you can play with :) <br>
-First, let's dive into the essentials..Try clicking on this image:
+First, let's dive into the essentials..Try clicking on this image:<br><br>
 
 <a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
   <img src="https://github.com/user-attachments/assets/336fdefb-c983-4f7c-9a64-f0194286f23e" alt="YH_png" style="width:700px;height:200px;"/>
 </a><br>
 
-Guess what you just heard! Here you will find a lot like these..You can play around with all the images and test your acoustic skills 😉
+Guess what you just heard! Here you will find a lot like these..You can play around with all the images and test your acoustic skills
 
-<h2>1. Yellowhammer songs</h2>
+<h2>1. Yellowhammer</h2>
+
+Let's start with basics..Who are 'Yellowhammers'? <br>
+Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory except for some Eastern Europe populations.<br>
+Although Originally from They are found in various habitats, but prefers farmlands with open space and patches of 
 
 <a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
   <img src="https://github.com/user-attachments/assets/6992a425-0b1c-4c0e-b98a-aad3de948999" alt="Bird A_Type a" style="width:200px;height:90px;"/>
@@ -71,7 +80,7 @@ Here's a diagram of dialect types:<br><br>
 
 
 <h2>3. Citizen science project</h2>
-'Dialects of Yellowhammers' (DCY) English version: http://www.yellowhammers.net/
+'Dialects of Yellowhammers' (DCY) English version: http://www.yellowhammers.net/<br>
 'Projektu Nářečí českých strnadů' Czech version: https://www.strnadi.cz/
 
 <h2>4. Reference papers</h2>
