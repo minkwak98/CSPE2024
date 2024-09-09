@@ -1,36 +1,34 @@
 # 👋Hi! Welcome to the YH World:)
 
-Welcome! I'm Min, and this is my contribution page to my dear little study bird, Yellowhammers:)🕊 <br>
-If you are curious about these little yellow creatures..You've come to the right place😉 <br>
-Here you will find some common information, hopefully-fun facts, a.k.a collection of all random YH stuff!📚  <br>
-(Un)Fortunately, due to author bias, it will be mostly focused on their endearing vocal cords.🎶  <br>
+This is my contribution page to my dear Yellowhammers.🕊
+If you are curious about these creatures...You've come to the right place😉 <br>
+Here you will find some information, and hopefully-fun facts, a.k.a collection of random YH stuff!📚  <br>
+(Un)Fortunately, due to author's bias, I will be talking more about their musical vocal cords.🎶  <br><br>
 So if you're ready..Feel free to dive in and explore!💫 
 
-If you have come from the poster... Here are some things you can play with :) <br>
-First, let's dive into the essentials..Try clicking on this image:<br><br>
-
-<a href="https://github.com/user-attachments/assets/ecd974bd-e31a-4a7b-89ff-c91550f0ec58" target="_blank">
-  <img src="https://github.com/user-attachments/assets/336fdefb-c983-4f7c-9a64-f0194286f23e" alt="YH_png" style="width:700px;height:200px;"/>
-</a><br>
-
-Guess what you just heard! Here you will find a lot like these..You can play around with all the images and test your acoustic skills
 
 <h2>1. Yellowhammer</h2>
 
-Let's start with basics..Who are 'Yellowhammers'? <br>
-Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory except for some Eastern Europe populations.<br>
-Although Originally from They are found in various habitats, but prefers farmlands with open space and patches of 
+Let's start with basics... **Who are Yellowhammers?** <br>
+Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations.Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, they have been suffering population decline in the last 20-30 years due to habitat destruction and human activity. To raise awareness, it was even elected as the Bird of the Year by the Czech Ornithological Society in 2011. Our hopes are high to make history again... 👀 <br><br>
 
-## Listen to Yellowhammer Songs
+Now to my favourite part: **Songs!** <br>
+Yellowhammer songs are constructed into 2 parts: the **first phrase**(or initial phrase) and the **dialect**. <br>
+But a picture (song, in this case) is worth a thousand words! Nudge this guy to test your ears out😊 <br><br>
 
-## Listen to Yellowhammer Songs
+<a href="https://github.com/user-attachments/assets/ecd974bd-e31a-4a7b-89ff-c91550f0ec58" target="_blank">
+  <img src="https://github.com/user-attachments/assets/336fdefb-c983-4f7c-9a64-f0194286f23e" alt="YH_png" style="width:700px;height:200px;"/>
+</a><br><br>
 
-<audio controls>
-  <source src="https://drive.google.com/file/d/1HSh0kJdyXnOgFsomqugIV7XR8ncAzcB4/view?usp=drive_link" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+Did you hear the two different parts of the song?<br><br>
+The more rhythmic, fast-tempoed ‘chit,chit,chit,chit’ or ‘mic,mic,mic,mic’, as I like to call, is the first phrase, and if you were good enough, you would have even heard the differences between all the songs! One singing male can have multiple types of first phrases, usually 1 to 4.  <br><br>
+The longer, whistle-like latter part, ‘dee-doo-’ (sometimes just the first ‘dee-’) is the dialect, which is shared within locality (like a whole town). Meaning if you go to Prague, they will be all singing the same ‘dee-doo-‘, but when you go to Paris, they will all be singing ‘dee-tee-‘!If you’re more curious about the dialects, check Section 4, 5. <br><br>
+Isn’t it amazing, that in one song, they have such distinct features? Different features, possibly different meanings! 
 
-https://drive.google.com/file/d/1HSh0kJdyXnOgFsomqugIV7XR8ncAzcB4/view?usp=drive_link
+<h2>2. First phrase types</h2>
+Now if you came from my poster, here's the more interesting part for you!
+I have put in each phrase type songs in each image. Try listening to the shared types: "Type a" and "Type b".
+Remember that they are all different birds! But do they sound the same to you?Let me know what you think!<br>
 
 <a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
   <img src="https://github.com/user-attachments/assets/6992a425-0b1c-4c0e-b98a-aad3de948999" alt="Bird A_Type a" style="width:200px;height:90px;"/>
@@ -80,21 +78,25 @@ https://drive.google.com/file/d/1HSh0kJdyXnOgFsomqugIV7XR8ncAzcB4/view?usp=drive
   <img src="https://github.com/user-attachments/assets/e3d51d09-c0f9-4b2f-9707-d4cb17986e1f" alt="Bird E_Type b" style="width:200px;height:90px;"/>
 </a><br><br>
 
-Try matching the spectrogram images to what you can hear.
-Did you hear the differences?:)
 
-<h2>2. Dialect types and song examples</h2>
+<h2>3. Dialect types and song examples</h2>
 Here's a diagram of dialect types:<br><br>
 
 ![Dialect types](https://github.com/user-attachments/assets/f717aea8-c801-4c55-ba3f-22f4958e39a7)
 <img width="450" alt="Dialect types_diagram" src="https://github.com/user-attachments/assets/120c0d98-e39e-45e0-9797-b59b174e3c01">
 
+If your ears were sharp enough, you would have heard two different dialects from our guy from Section 1. <br>
+Let me know if you noticed!
 
-<h2>3. Citizen science project</h2>
+<h2>4. Citizen science project</h2>
+Our team has contributed almost a decade in the nation-wide citizen science project. It was a great success, leading to so many interesting findings! <br>
+Just a little teaser, we may or may not be preparing version 2...So stay tuned:)<br><br>
+
 'Dialects of Yellowhammers' (DCY) English version: http://www.yellowhammers.net/<br>
 'Projektu Nářečí českých strnadů' Czech version: https://www.strnadi.cz/
 
-<h2>4. Reference papers</h2>
+<h2>5. Reference papers</h2>
+**For poster audiences**: note-worthy papers are highlighted in bold. <br>
 
    Diblíková, L., Pipek, P., Vosolsobě, S., Petrusek, A., & Petrusková, T. (2023). Reevaluation of dialect boundaries in the Yellowhammer (Emberiza citrinella) based on citizen science data: Should we split or lump?. Avian Research, 14, 100115.
    [https://doi.org/10.1016/j.avrs.2023.100115](https://doi.org/10.1016/j.avrs.2023.100115)
