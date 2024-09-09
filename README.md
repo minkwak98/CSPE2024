@@ -9,7 +9,7 @@ So if you're ready..Feel free to dive in and explore!💫
 If you have come from the poster... Here are some things you can play with :) <br>
 First, let's dive into the essentials..Try clicking on this image:<br><br>
 
-<a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
+<a href="https://github.com/user-attachments/assets/ecd974bd-e31a-4a7b-89ff-c91550f0ec58" target="_blank">
   <img src="https://github.com/user-attachments/assets/336fdefb-c983-4f7c-9a64-f0194286f23e" alt="YH_png" style="width:700px;height:200px;"/>
 </a><br>
 
