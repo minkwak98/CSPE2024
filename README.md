@@ -5,7 +5,7 @@ If you have come from the poster... Here are some things you can play with :) <b
 First, let's dive into the essentials..Try clicking on this image:
 
 <a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a02cde90-dc48-437f-a1ec-6ae726f7684e" alt="YH_png" style="width:220px;height:200px;"/>
+  <img src="https://github.com/user-attachments/assets/336fdefb-c983-4f7c-9a64-f0194286f23e" alt="YH_png" style="width:700px;height:200px;"/>
 </a><br>
 
 Guess what you just heard! Here you will find a lot like these..You can play around with all the images and test your acoustic skills 😉
