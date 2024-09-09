@@ -1,6 +1,14 @@
-# World of Yellowhammers
+# World of Yellowhammers 
 
-Welcome to the World of Yellowhammers! If you have come from the poster... Here are some things you can play with :)
+Welcome to the World of Yellowhammers! 🕊 <br>
+If you have come from the poster... Here are some things you can play with :) <br>
+First, let's dive into the essentials..Try clicking on this image:
+
+<a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a02cde90-dc48-437f-a1ec-6ae726f7684e" alt="YH_png" style="width:220px;height:200px;"/>
+</a><br>
+
+Guess what you just heard! Here you will find a lot like these..You can play around with all the images and test your acoustic skills 😉
 
 <h2>1. Yellowhammer songs</h2>
 
@@ -52,18 +60,24 @@ Welcome to the World of Yellowhammers! If you have come from the poster... Here 
   <img src="https://github.com/user-attachments/assets/e3d51d09-c0f9-4b2f-9707-d4cb17986e1f" alt="Bird E_Type b" style="width:200px;height:90px;"/>
 </a><br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Did you hear the differences?:)
+Try matching the spectrogram images to what you can hear.
+Did you hear the differences?:)
 
 <h2>2. Dialect types and song examples</h2>
 Here's a diagram of dialect types:<br><br>
 
 ![Dialect types](https://github.com/user-attachments/assets/f717aea8-c801-4c55-ba3f-22f4958e39a7)
+<img width="450" alt="Dialect types_diagram" src="https://github.com/user-attachments/assets/120c0d98-e39e-45e0-9797-b59b174e3c01">
 
 
-<h2>3. Link to the 'Dialects of Yellowhammers (DCY)' project</h2>
-http://www.yellowhammers.net/
+<h2>3. Citizen science project</h2>
+'Dialects of Yellowhammers' (DCY) English version: http://www.yellowhammers.net/
+'Projektu Nářečí českých strnadů' Czech version: https://www.strnadi.cz/
 
 <h2>4. Reference papers</h2>
 
    Diblíková, L., Pipek, P., Vosolsobě, S., Petrusek, A., & Petrusková, T. (2023). Reevaluation of dialect boundaries in the Yellowhammer (Emberiza citrinella) based on citizen science data: Should we split or lump?. Avian Research, 14, 100115.
    [https://doi.org/10.1016/j.avrs.2023.100115](https://doi.org/10.1016/j.avrs.2023.100115)
+
+Pipek, P., Petrusek, A., Petrusková, T., Diblíková, L., & v časopise Živa, V. Jedna píseň tucetkrát jinak.
+   https://ziva.avcr.cz/files/ziva/pdf/jedna-pisen-tucetkrat-jinak.pdf
