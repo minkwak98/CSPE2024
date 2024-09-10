@@ -6,7 +6,7 @@ Here you will find some hopefully-fun facts, but (un)fortunately, due to author'
 So if you're ready..Feel free to dive in and explore!💫 
 
 
-<h2 id="section-1">1. Yellowhammer</h2>
+## 1. Yellowhammer
 
 Let's start with basics... **Who are Yellowhammers?** <br>
 Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations. Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, they have been suffering population decline in the last 20-30 years due to habitat destruction and human activity. They were even elected as the Bird of the Year by the Czech Ornithological Society in 2011, so our hopes are high to make history again... 👀 <br><br>
@@ -26,12 +26,12 @@ Did you hear the two different parts of the song?😊<br><br>
 The more rhythmic, fast-tempoed *‘chit,chit,chit,chit’* or _‘mic,mic,mic,mic’_, is the first phrase, and if your ears were sharp enough, you may have even heard the differences between each song! One singing male can have multiple types of first phrases, usually 1 to 4, and we call this 'combination of first phrases': a repertoire. Each bird's repertoire is stable in time, which means when they have made their own unique repertoire, they don't change it! Now this helps us a lot on the field, especially when you are a bioacoustician who doesn't want to traumatize them but still wants to know who is who...🤭(See References if you want to know more!) <br><br>
 
 
-The longer, whistle-like latter part, ‘dee-doo-’ (sometimes just the first ‘dee-’) is the dialect, which is shared within locality, or neighbours. Meaning if you go to Prague, they will be all singing the same ‘dee-doo-‘, but when you go to Paris, they will all be singing ‘dee-tee-‘! Actually, the dialects are more dense and diverse but if you’re more curious about the dialects, check <a href="#section-3">Section 3</a>, <a href="#section-4">Section 4</a>! <br><br>
+The longer, whistle-like latter part, ‘dee-doo-’ (sometimes just the first ‘dee-’) is the dialect, which is shared within locality, or neighbours. Meaning if you go to Prague, they will be all singing the same ‘dee-doo-‘, but when you go to Paris, they will all be singing ‘dee-tee-‘! Actually, the dialects are more dense and diverse but if you’re more curious about the dialects, check [Section 4](#4-citizen-science-project)! <br><br>
 
 
 Isn’t it amazing, that in one song, they have such distinct features? Different features, possibly different meanings, different meanings, possibly different functions! Now this is where it all gets intersting but I won't overwhelm you with details here...Ask me more if you want to know more!
 
-<h2 id="section-2">2. First phrase types</h2>
+## 2. First phrase types
 Now if you came from my poster, here's the more interesting part for you!
 I have put in each phrase type songs in each image. Try listening to the shared types: "Type a" and "Type b".
 Remember that they are all different birds! But do they sound the same to you?Let me know what you think!<br>
@@ -85,7 +85,8 @@ Remember that they are all different birds! But do they sound the same to you?Le
 </a><br><br>
 
 
-<h2 id="section-3">3. Dialect types and song examples</h2>
+## 3. Dialects
+### 3-1. Dialect types
 Here's a diagram of dialect types:<br><br>
 
 ![Dialect types](https://github.com/user-attachments/assets/f717aea8-c801-4c55-ba3f-22f4958e39a7)
@@ -94,7 +95,7 @@ Here's a diagram of dialect types:<br><br>
 If your ears were sharp enough, you would have heard two different dialects from our guy from Section 1. <br>
 Let me know if you noticed!
 
-<h2 id="section-4">4. Citizen science project</h2>
+### 3-2. Citizen science project
 Our team has contributed almost a decade in the nation-wide citizen science project. It was a great success, leading to so many interesting findings! <br>
 Just a little teaser, we may or may not be preparing version 2...So stay tuned:)<br><br>
 
