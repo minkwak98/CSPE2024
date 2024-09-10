@@ -1,20 +1,20 @@
-# 👋Welcome to YH World:)
+# Welcome to YH World!
 
-Hi! This is my contribution page to Yellowhammers.🕊
-If you are curious about these creatures...You've come to the right place😉 <br>
-Here you will find some hopefully-fun facts, but (un)fortunately, due to author's bias, the main focus will be on their vocal cords.🎶  <br><br>
-So if you're ready..Feel free to dive in and explore!💫 
+Hi! This is my contribution page to Yellowhammers.🕊  
+If you are curious about these creatures...You've come to the right place!👋 <br>
+Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their **charming melodies**.🎶  <br><br>
+So if you're ready...Feel free to dive in and explore!💫 
 
 
 ## 1. Yellowhammer
 
-Let's start with basics... **Who are Yellowhammers?** <br>
+<font size="5">Let's start with basics... **Who are Yellowhammers?**</font><br>
 Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations. Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, they have been suffering population decline in the last 20-30 years due to habitat destruction and human activity. They were even elected as the Bird of the Year by the Czech Ornithological Society in 2011, so our hopes are high to make history again... 👀 <br><br>
 
 Now to my favourite part: **Songs!** <br>
-Yellowhammer males, like many other birds, sing to attract mates and defend their territory.
+Yellowhammer males, like many other birds, sing to attract mates and defend their territory during breeding season.
 Their songs have 2 parts: the **first phrase**(or initial phrase) and the **dialect**. <br>
-But a picture (song, in this case) is worth a thousand words! Try clicking on this little guy: <br><br>
+But a picture (song, in this case😉) is worth a thousand words! Try clicking on this little guy: <br><br>
 
 <a href="https://github.com/user-attachments/assets/ecd974bd-e31a-4a7b-89ff-c91550f0ec58" target="_blank">
   <img src="https://github.com/user-attachments/assets/336fdefb-c983-4f7c-9a64-f0194286f23e" alt="YH_png" style="width:500px;height:150px;"/>
@@ -33,8 +33,7 @@ Isn’t it amazing, that they have such distinct features in one song? Different
 
 ## 2. First phrase types
 If you came from my poster, here's the more interesting part for you!
-I have put in each phrase type songs in each image. Try listening to the shared types: "Type a" and "Type b".
-Remember that they are all different birds!<br>
+I have put in each phrase type songs in each image. Try listening, maybe focusing on the shared types: "Type a" and "Type b".<br>
 
 <a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
   <img src="https://github.com/user-attachments/assets/6992a425-0b1c-4c0e-b98a-aad3de948999" alt="Bird A_Type a" style="width:100px;height:45px;"/>
@@ -65,26 +64,28 @@ Remember that they are all different birds!<br>
 </a>
 
 <a href="https://github.com/user-attachments/assets/6f7573fc-db84-42bf-9483-baebf1983418" target="_blank">
-  <img src="https://github.com/user-attachments/assets/1985df8f-7bad-41ce-83fb-52852da9d69c" alt="Bird C_Unshared Type" style="width:200px;height:90px;"/>
+  <img src="https://github.com/user-attachments/assets/1985df8f-7bad-41ce-83fb-52852da9d69c" alt="Bird C_Unshared Type" style="width:100px;height:45px;"/>
 </a><br>
 
 <a href="https://github.com/user-attachments/assets/ebe6d418-66e5-4a79-aee3-6447cd6ac10c" target="_blank">
-  <img src="https://github.com/user-attachments/assets/de79b1c5-142a-42be-a2a8-60007bde373f" alt="Bird D_Type b" style="width:200px;height:90px;"/>
+  <img src="https://github.com/user-attachments/assets/de79b1c5-142a-42be-a2a8-60007bde373f" alt="Bird D_Type b" style="width:100px;height:45px;"/>
 </a>
 
 <a href="https://github.com/user-attachments/assets/2670c0cb-d738-4784-9747-d8a54275dfc8" target="_blank">
-  <img src="https://github.com/user-attachments/assets/cc3b18db-b66f-4de6-a654-b12789a1ec13" alt="Bird D_Unshared Type 1" style="width:200px;height:90px;"/>
+  <img src="https://github.com/user-attachments/assets/cc3b18db-b66f-4de6-a654-b12789a1ec13" alt="Bird D_Unshared Type 1" style="width:100px;height:45px;"/>
 </a>
 
 <a href="https://github.com/user-attachments/assets/d9ec5d43-c3f3-4895-97f3-f726fd20dc89" target="_blank">
-  <img src="https://github.com/user-attachments/assets/74ab125f-e544-47cf-ae0b-60fde5a17a32" alt="Bird D_Unshared Type 2" style="width:200px;height:90px;"/>
+  <img src="https://github.com/user-attachments/assets/74ab125f-e544-47cf-ae0b-60fde5a17a32" alt="Bird D_Unshared Type 2" style="width:100px;height:45px;"/>
 </a><br>
 
 <a href="https://github.com/user-attachments/assets/ed46d3ab-f0fb-469a-b3e0-116e5e9fb78c" target="_blank">
-  <img src="https://github.com/user-attachments/assets/e3d51d09-c0f9-4b2f-9707-d4cb17986e1f" alt="Bird E_Type b" style="width:200px;height:90px;"/>
+  <img src="https://github.com/user-attachments/assets/e3d51d09-c0f9-4b2f-9707-d4cb17986e1f" alt="Bird E_Type b" style="width:100px;height:45px;"/>
 </a><br><br>
 
-Well, what do you think?
+Well, what do you think? Does Bird A's Type a sound the same to Bird B's Type b? Does Bird D's all 3 types sound different? Or do they just sound all the same?  
+I would love to hear your thoughts, which will actually help me out a lot even research-wise, so please let me know. Every word matters to me😊
+
 
 ## 3. Dialects
 ### 3-1. Dialect types
