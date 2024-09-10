@@ -2,34 +2,33 @@
 
 Hi! This is my contribution page to Yellowhammers.🕊  
 If you are curious about these creatures...You've come to the right place!👋 <br>
-Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their **charming melodies**.🎶  <br><br>
+Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their charming melodies.🎶  <br><br>
 So if you're ready...Feel free to dive in and explore!💫 
 
+#### For poster audience: skip to [2. First phrase types](#2-First-phrase-types)
 
 ## 1. Yellowhammer
 
-<font size="5">Let's start with basics... **Who are Yellowhammers?**</font><br>
-Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations. Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, they have been suffering population decline in the last 20-30 years due to habitat destruction and human activity. They were even elected as the Bird of the Year by the Czech Ornithological Society in 2011, so our hopes are high to make history again... 👀 <br><br>
+### Let's start with basics... **Who are Yellowhammers?**<br>
+Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations. Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, they have been suffering population decline in the last 20-30 years mainly due to habitat destruction. As means of conservation, they were even elected as the Bird of the Year by the Czech Ornithological Society in 2011, so our hopes are high to make history again...👑 <br>
 
-Now to my favourite part: **Songs!** <br>
+### Now to my favourite part: **Songs!** <br>
 Yellowhammer males, like many other birds, sing to attract mates and defend their territory during breeding season.
 Their songs have 2 parts: the **first phrase**(or initial phrase) and the **dialect**. <br>
-But a picture (song, in this case😉) is worth a thousand words! Try clicking on this little guy: <br><br>
+But a picture (song, in this case😉) is worth a thousand words! Try clicking on this little _guy_: <br><br>
+
 
 <a href="https://github.com/user-attachments/assets/ecd974bd-e31a-4a7b-89ff-c91550f0ec58" target="_blank">
-  <img src="https://github.com/user-attachments/assets/336fdefb-c983-4f7c-9a64-f0194286f23e" alt="YH_png" style="width:500px;height:150px;"/>
+  <img src="https://github.com/user-attachments/assets/ffec6f34-5e39-47fd-a50d-d95d4c18d59e" alt="YH_png" style="width:500px;height:150px;"/>
 </a><br><br>
 
-Did you hear the two different parts of the song?😊<br><br>
+Did you hear the two different parts of the song?😊<br>
 
+The more rhythmic, fast-tempoed *‘chit,chit,chit,chit’* or _‘mic,mic,mic,mic’_, is the **first phrase**, and if your ears were sharp enough, you may have even heard the differences between each song! One singing male can have multiple types of first phrases, usually 1 to 4, and we call this 'combination of first phrases': a **repertoire**. Each bird's repertoire is stable in time, which means once they have learned their own unique repertoire, they don't change it! Now this helps us a lot on the field, especially when you are a bio-acoustician! ([Ask me](#5-About-me) if you want to know more🤭) <br>
 
-The more rhythmic, fast-tempoed *‘chit,chit,chit,chit’* or _‘mic,mic,mic,mic’_, is the first phrase, and if your ears were sharp enough, you may have even heard the differences between each song! One singing male can have multiple types of first phrases, usually 1 to 4, and we call this 'combination of first phrases': a repertoire. Each bird's repertoire is stable in time, which means when they have made their own unique repertoire, they don't change it! Now this helps us a lot on the field, especially when you are a bioacoustician who doesn't want to traumatize them but still wants to know who is who...🤭(See [4. References](#4-References) if you want to know more!) <br><br>
+The longer, whistle-like latter part, _‘dee-doo-’_ (sometimes just the first _‘dee-’_) is the dialect, which is shared within locality, or neighbours. Meaning if you go to Prague, they will be all singing the same _‘dee-doo-‘_, but when you go to Paris, they will all be singing _‘dee-tee-‘_! Actually, the dialects are more dense and diverse but if you’re more curious about the dialects, see [3. Dialects](#3-Dialects). <br>
 
-
-The longer, whistle-like latter part, ‘dee-doo-’ (sometimes just the first ‘dee-’) is the dialect, which is shared within locality, or neighbours. Meaning if you go to Prague, they will be all singing the same ‘dee-doo-‘, but when you go to Paris, they will all be singing ‘dee-tee-‘! Actually, the dialects are more dense and diverse but if you’re more curious about the dialects, check [3. Dialects](#3-Dialects)! <br><br>
-
-
-Isn’t it amazing, that they have such distinct features in one song? Different features, possibly different meanings, different meanings, possibly different functions! Now this is where it all gets interesting but I won't overwhelm you with details here...[Ask me more](#5-About-me) if interested!
+Isn’t it amazing, that they have such distinct features in one song? Different features, possibly different meanings, different meanings, possibly different functions! Now this is where it all gets interesting but I won't overwhelm you with details here... [Maybe here](#5-About-me)!
 
 ## 2. First phrase types
 If you came from my poster, here's the more interesting part for you!
@@ -83,26 +82,28 @@ I have put in each phrase type songs in each image. Try listening, maybe focusin
   <img src="https://github.com/user-attachments/assets/e3d51d09-c0f9-4b2f-9707-d4cb17986e1f" alt="Bird E_Type b" style="width:100px;height:45px;"/>
 </a><br><br>
 
-Well, what do you think? Does Bird A's Type a sound the same to Bird B's Type b? Does Bird D's all 3 types sound different? Or do they just sound all the same?  
-I would love to hear your thoughts, which will actually help me out a lot even research-wise, so please let me know. Every word matters to me😊
+Well, what do you think? Does 'Bird A's Type a' sound the same to 'Bird B's Type b'? Does Bird D's all 3 types sound different? Or do all the songs just sound the same?  
+I would love to hear your thoughts, which will help me out a lot for my work, so please [let me know](#5-About-me). Every word matters to me😊
 
 
 ## 3. Dialects
 ### 3-1. Dialect types
-Here's a diagram of dialect types:<br><br>
+Yellowhammer dialects only have a few types across all populations.  
+Considering how widely distributed they are, it's quite fascinating that we can literally count them down!
+Here are the dialect types:<br><br>
 
-![Dialect types](https://github.com/user-attachments/assets/f717aea8-c801-4c55-ba3f-22f4958e39a7)
-<img width="450" alt="Dialect types_diagram" src="https://github.com/user-attachments/assets/120c0d98-e39e-45e0-9797-b59b174e3c01">
+<img width="309" alt="Dialect types" src="https://github.com/user-attachments/assets/4ed2d077-2803-401d-9b47-9f1d234e32d3">
 
-If your ears were sharp enough, you would have heard two different dialects from our guy from Section 1. <br>
-Let me know if you noticed!
+If your ears were sharp enough, you would have heard two different dialects from our _guy_ from [Section 1](#1-Yellowhammer).<br>
+Guess which dialects they were! And if you're one smart detective...You'll notice a small error in this _'(a) guy'_. Do you see my hint?🧐
 
 ### 3-2. Citizen science project
-Our team has contributed almost a decade in the nation-wide citizen science project. It was a great success, leading to so many interesting findings! <br>
-Just a little teaser, we may or may not be preparing version 2...So stay tuned:)<br><br>
+Our team has contributed almost a decade to the nation-wide citizen science project to map out the dialects of Czech Yellowhammers. It was a great success, leading to so many fascinating discoveries! <br>
 
 'Dialects of Yellowhammers' (DCY) English version: http://www.yellowhammers.net/<br>
-'Projektu Nářečí českých strnadů' Czech version: https://www.strnadi.cz/
+'Projektu Nářečí českých strnadů' Czech version: https://www.strnadi.cz/  
+
+Just a little teaser, we may or may not be preparing ver.2...So stay tuned👀
 
 ## 4. Reference papers
 **For poster audiences**: Main papers are highlighted in bold. <br>
@@ -112,7 +113,6 @@ Just a little teaser, we may or may not be preparing version 2...So stay tuned:)
 
 Pipek, P., Petrusek, A., Petrusková, T., Diblíková, L., & v časopise Živa, V. Jedna píseň tucetkrát jinak.
    https://ziva.avcr.cz/files/ziva/pdf/jedna-pisen-tucetkrat-jinak.pdf
-
 
 ## 5. About me
 Thank you for coming this long! I hope you enjoyed your journey with Yellowhammers.  
