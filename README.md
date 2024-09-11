@@ -7,10 +7,10 @@ So if you're ready...Feel free to dive in and explore!💫
 
 ## 1. Yellowhammer
 
-### Let's start with basics... **Who are Yellowhammers?**<br>
+### Let's start with basics... <br>
 Yellowhammers are a common passerine bird species distributed throughout Eurasia, New Zealand, and Australia, mostly non-migratory with partial exceptions for some Eastern Europe populations. Originally from grassland, they have well-adapted to agricultural landscapes, preferably lowland farmland with open space and shrub patches. Although they are widely distributed, they have been suffering population decline in the last 20-30 years mainly due to habitat destruction. As means of conservation, they were even elected as the Bird of the Year by the Czech Ornithological Society in 2011, so our hopes are high to make history again...👑 <br>
 
-### Now to my favourite part: **Songs!** <br>
+### Now to my favourite part... <br>
 Yellowhammer males, like many other birds, sing to attract mates and defend their territory during breeding season.
 Their songs have 2 parts: the **first phrase**(or initial phrase) and the **dialect**. <br>
 But a picture (song, in this case😉) is worth a thousand words! Try clicking on this little _guy_: <br><br>
