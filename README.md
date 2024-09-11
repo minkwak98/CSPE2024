@@ -2,10 +2,8 @@
 
 Hi! This is my contribution page to Yellowhammers.🕊  
 If you are curious about these creatures...You've come to the right place!👋 <br>
-Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their charming melodies.🎶  <br><br>
+Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their charming melodies.🎶  
 So if you're ready...Feel free to dive in and explore!💫 
-
-#### ❗For poster audience: skip to [2. First phrase types](#2-First-phrase-types)❗
 
 ## 1. Yellowhammer
 
@@ -117,9 +115,9 @@ Pipek, P., Petrusek, A., Petrusková, T., Diblíková, L., & v časopise Živa, 
    https://ziva.avcr.cz/files/ziva/pdf/jedna-pisen-tucetkrat-jinak.pdf
 
 ## 5. About me
-Thank you for coming this long! I hope you enjoyed your journey with Yellowhammers.  
-If you want to know, discuss, chat... Please feel free to bother me in any ways!  
-I am more than happy to be all ears:)👂That is what I do!😉  
+Thank you for coming this long! I hope you enjoyed your journey with my little birds.🕊  
+If you want to know, discuss, chat more... Please feel free to bother me in _any possible way_!  
+I am more than happy to be all ears:)👂It is what I am best at if you haven't noticed!😉  
 
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/dccc346e-8264-4ad9-a524-1a5cbffa2c81"><br>
   
