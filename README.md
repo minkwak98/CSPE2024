@@ -5,7 +5,7 @@ If you are curious about these creatures...You've come to the right place!👋 <
 Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their charming melodies.🎶  <br><br>
 So if you're ready...Feel free to dive in and explore!💫 
 
-#### For poster audience: skip to [2. First phrase types](#2-First-phrase-types)
+#### ❗For poster audience: skip to [2. First phrase types](#2-First-phrase-types)❗
 
 ## 1. Yellowhammer
 
@@ -100,13 +100,12 @@ Guess which dialects they were! And if you're one smart detective...You'll notic
 ### 3-2. Citizen science project
 Our team has contributed almost a decade to the nation-wide citizen science project to map out the dialects of Czech Yellowhammers. It was a great success, leading to so many fascinating discoveries! <br>
 
-'Dialects of Yellowhammers' (DCY) English version: http://www.yellowhammers.net/<br>
-'Projektu Nářečí českých strnadů' Czech version: https://www.strnadi.cz/  
+ (EN)'Dialects of Yellowhammers': http://www.yellowhammers.net/<br>
+ (CZ)'Projektu Nářečí českých strnadů': https://www.strnadi.cz/  
 
 Just a little teaser, we may or may not be preparing ver.2...So stay tuned👀
 
-## 4. Reference papers
-**For poster audiences**: Main papers are highlighted in bold. <br>
+## 4. References
 
    Diblíková, L., Pipek, P., Vosolsobě, S., Petrusek, A., & Petrusková, T. (2023). Reevaluation of dialect boundaries in the Yellowhammer (Emberiza citrinella) based on citizen science data: Should we split or lump?. Avian Research, 14, 100115.
    [https://doi.org/10.1016/j.avrs.2023.100115](https://doi.org/10.1016/j.avrs.2023.100115)
@@ -116,4 +115,10 @@ Pipek, P., Petrusek, A., Petrusková, T., Diblíková, L., & v časopise Živa, 
 
 ## 5. About me
 Thank you for coming this long! I hope you enjoyed your journey with Yellowhammers.  
-To be honest, this was just spec of dust in the universe...So please do reach out if you want to talk more!  
+If you want to know, discuss, chat... Please feel free to bother me in any ways!  
+I am more than happy to be all ears:)👂That is what I do!😉  
+
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/dccc346e-8264-4ad9-a524-1a5cbffa2c81"><br>
+  
+[CV (to be updated)](https://github.com/user-attachments/files/16956103/Minkyung.Kwak_CV.pdf)/
+[BioacAI project](https://bioacousticai.eu/team-member/minkyung-kwak/)
