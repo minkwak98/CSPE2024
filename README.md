@@ -4,6 +4,7 @@ Hi! This is my contribution page to Yellowhammers.🕊
 If you are curious about these creatures...You've come to the right place!👋 <br>
 Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their charming melodies.🎶  
 So if you're ready...Feel free to dive in and explore!💫 
+If you're in a hurry, skip to [2. First phrase](#2-First-phrase)
 
 ## 1. Yellowhammer
 
@@ -28,7 +29,7 @@ The longer, whistle-like latter part, _‘dee-doo-’_ (sometimes just the first
 
 Isn’t it amazing, that they have such distinct features in one song? Different features, possibly different meanings, different meanings, possibly different functions! Now this is where it all gets interesting but I won't overwhelm you with details here... [Maybe here](#5-About-me)!
 
-## 2. First phrase types
+## 2. First phrase
 If you came from my poster, here's the more interesting part for you!
 I have put in each phrase type songs in each image. Try listening, maybe focusing on the shared types: "Type a" and "Type b".<br>
 
@@ -88,7 +89,7 @@ I would love to hear your thoughts, which will help me a lot with my current wor
 So please come talk anytime, or if you missed me: [5. About me](#5-About-me)😊
 
 
-## 3. Dialects
+## 3. Dialect
 ### 3-1. Dialect types
 Yellowhammer dialects only have a few types across all populations.  
 Considering how widely distributed they are, it's quite fascinating that we can literally count them down!
