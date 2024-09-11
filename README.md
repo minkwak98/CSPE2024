@@ -19,7 +19,7 @@ But a picture (song, in this case😉) is worth a thousand words! Try clicking o
 
 
 <a href="https://github.com/user-attachments/assets/ecd974bd-e31a-4a7b-89ff-c91550f0ec58" target="_blank">
-  <img src="https://github.com/user-attachments/assets/ffec6f34-5e39-47fd-a50d-d95d4c18d59e" alt="YH_png" style="width:500px;height:150px;"/>
+  <img src="https://github.com/user-attachments/assets/ffec6f34-5e39-47fd-a50d-d95d4c18d59e" alt="YH_png" style="width:200px;height:60px;"/>
 </a><br><br>
 
 Did you hear the two different parts of the song?😊<br>
