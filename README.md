@@ -82,8 +82,11 @@ I have put in each phrase type songs in each image. Try listening, maybe focusin
   <img src="https://github.com/user-attachments/assets/e3d51d09-c0f9-4b2f-9707-d4cb17986e1f" alt="Bird E_Type b" style="width:100px;height:45px;"/>
 </a><br><br>
 
-Well, what do you think? Does 'Bird A's Type a' sound the same to 'Bird B's Type b'? Does Bird D's all 3 types sound different? Or do all the songs just sound the same?  
-I would love to hear your thoughts, which will help me out a lot for my work, so please [let me know](#5-About-me). Every word matters to me😊
+Well, what do you think?
+  
+Does 'Bird A's Type a' sound the same to 'Bird B's Type b'? Does Bird D's all 3 types sound different? Or do all the songs just sound the same?
+  
+I would love to hear your thoughts, which will help me a lot with my current work, so please come talk anytime, or if you missed me: [5. About me](#5-About-me)😊
 
 
 ## 3. Dialects
