@@ -120,5 +120,5 @@ I am more than happy to be all ears:)👂It is what I am best at!
 
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/dccc346e-8264-4ad9-a524-1a5cbffa2c81"><br>
   
-[CV (to be updated)](https://github.com/user-attachments/files/16956103/Minkyung.Kwak_CV.pdf)/
+[CV](https://github.com/user-attachments/files/16956103/Minkyung.Kwak_CV.pdf)/
 [BioacAI project](https://bioacousticai.eu/team-member/minkyung-kwak/)
