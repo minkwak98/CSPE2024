@@ -83,8 +83,7 @@ Well, what do you think?
   
 Does 'Bird A's Type a' sound the same to 'Bird B's Type b'? Does Bird D's all 3 types sound different? Or do all the songs just sound the same?
   
-I would love to hear your thoughts, which will help me a lot with my current work.  
-So please come talk anytime, or if you missed me: [5. About me](#5-About-me)😊
+I would love to hear your thoughts!: [5. About me](#5-About-me)
 
 
 ## 3. Dialect
