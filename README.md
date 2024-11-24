@@ -116,7 +116,7 @@ Pipek, P., Petrusek, A., Petrusková, T., Diblíková, L., & v časopise Živa, 
 ## 5. About me
 Thank you for coming this long! I hope you enjoyed your journey with my little birds.🕊  
 If you want to know, discuss, chat more... Please feel free to bother me in _any possible way_!  
-I am more than happy to be all ears:)👂It is what I am best at if you haven't noticed!😉  
+I am more than happy to be all ears:)👂It is what I am best at!
 
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/dccc346e-8264-4ad9-a524-1a5cbffa2c81"><br>
   
