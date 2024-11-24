@@ -29,7 +29,6 @@ The longer, whistle-like latter part, _‘dee-doo-’_ (sometimes just the first
 Isn’t it amazing, that they have such distinct features in one song? Different features, possibly different meanings, different meanings, possibly different functions! Now this is where it all gets interesting but I won't overwhelm you with details here... [Maybe here](#5-About-me)!
 
 ## 2. First phrase
-If you came from my poster, here's the more interesting part for you!
 I have put in each phrase type songs in each image. Try listening, maybe focusing on the shared types: "Type a" and "Type b".<br>
 
 <a href="https://github.com/user-attachments/assets/57d3a07f-bb01-4798-b43a-4cc6d293386e" target="_blank">
