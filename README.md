@@ -5,8 +5,6 @@ If you are curious about these creatures...You've come to the right place!👋 <
 Here you will find some hopefully-fun facts, but (un)fortunately, due to author bias, the main focus will be on their charming melodies.🎶  
 So if you're ready...Feel free to dive in and explore!💫
 
-_If you're in a hurry, skip to_ [2. First phrase](#2-First-phrase)
-
 ## 1. Yellowhammer
 
 ### Let's start with basics... <br>
